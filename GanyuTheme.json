@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "transparency_mode": 3,
+        "author": "gan_yu",
+        "name": "Ganyu"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/BryanZChen\/GanyuAliucordTheme\/main\/bg.jpg",
+        "blur_radius": 4,
+        "overlay_alpha": 180
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1722192683,
+        "accent": -5982481,
+        "mention_highlight": 652630373,
+        "background": 145012463,
+        "background_secondary": 195344111
+    },
+    "colors": {
+        "brand": -5982481,
+        "brand_new_500": -5982481,
+        "primary_dark_400": -238956545,
+        "primary_dark_360": -1414677761,
+        "uikit_btn_compound_color_selector_dark": -5982481,
+        "primary_dark_300": -238956545,
+        "uikit_btn_compound_color_selector_light": -1722192683,
+        "uikit_settings_item_text_color_dark": -238956545,
+        "uikit_settings_item_text_color_light": -1722192683,
+        "abc_tint_switch_track": -1608369471,
+        "link": -5982481,
+        "link_500": -5982481,
+        "primary_dark_200": -1,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -238956545,
+        "ic_sidebar_notifications_off_dark_24dp": -238956545,
+        "ic_sidebar_pins_off_dark_24dp": -238956545,
+        "ic_sidebar_pins_on_dark_24dp": -238956545,
+        "ic_thread": -238956545
+    },
+    "raws": {}
+}
